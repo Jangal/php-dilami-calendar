@@ -31,6 +31,6 @@ on Ubuntu 20.04:
 sudo apt install php7.4-xml php7.4-mbstring
 git clone git@github.com:jangal/php-dilami-calendar.git
 cd php-dilami-calendar
-compose install
+composer install
 ./vendor/bin/phpunit tests
 ```
