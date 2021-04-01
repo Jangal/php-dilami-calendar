@@ -1,4 +1,4 @@
-# php-dilami-calendar
+# PHP Dilami Calendar
 
 Dilami calendar for PHP
 
@@ -34,3 +34,14 @@ cd php-dilami-calendar
 composer install
 ./vendor/bin/phpunit tests
 ```
+
+## Maybe You Like
+[Python Dilami Calendar](https://github.com/Jangal/python-dilami-calendar)
+<br/>
+[C++ Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-C-)
+<br/>
+[Arduino Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-Arduino)
+<br/>
+[.Net Dilami Calendar](https://github.com/Jangal/Dilami-Calendar-.Net)
+<br/>
+[تقویم دیلمی](http://giltime.ir)
